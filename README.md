@@ -1,0 +1,1 @@
+This repository contains the data and program code for: Hurlstone, M. J., White, B., & Newell, B. R. (2025). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change. *Royal Society Open Science*.
